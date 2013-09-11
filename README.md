@@ -24,3 +24,6 @@ selects the comp dataset, instance 5 from the comp dataset and lets the solver r
 Further settings can be made by overwriting the default values in the initialisation.py script.
 
 The solution timetables produced by the solver are saved to the folder "Solutions" in the solver folder.
+
+A detailed description of the program as well as a theoretical background to the university course timetabling
+problem is given in the thesis paper: "Metaheuristic algorithms for the automated timetabling of university courses.pdf"
