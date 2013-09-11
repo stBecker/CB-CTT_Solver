@@ -1,0 +1,192 @@
+0
+0
+1303
+[S(15)] Room r27 too small for course Fis1E the period 5 (day 1, timeslot 1)
+[S(88)] Room r30 too small for course FonInfC the period 1 (day 0, timeslot 1)
+[S(70)] Room r31 too small for course FonInfE the period 3 (day 0, timeslot 3)
+[S(58)] Room r36 too small for course MecRazC the period 4 (day 1, timeslot 0)
+[S(40)] Room r31 too small for course FisTecE the period 5 (day 1, timeslot 1)
+[S(48)] Room r37 too small for course FisTecE the period 7 (day 1, timeslot 3)
+[S(40)] Room r31 too small for course ConAutE the period 10 (day 2, timeslot 2)
+[S(30)] Room r31 too small for course ModNum the period 1 (day 0, timeslot 1)
+[S(38)] Room r37 too small for course ModNum the period 10 (day 2, timeslot 2)
+[S(30)] Room r31 too small for course ModNum the period 13 (day 3, timeslot 1)
+[S(38)] Room r37 too small for course CalEle the period 16 (day 4, timeslot 0)
+[S(38)] Room r36 too small for course EltecG the period 16 (day 4, timeslot 0)
+[S(38)] Room r36 too small for course FisTec the period 15 (day 3, timeslot 3)
+[S(70)] Room r29 too small for course DisMac the period 6 (day 1, timeslot 2)
+[S(30)] Room r31 too small for course EltecM the period 15 (day 3, timeslot 3)
+[S(48)] Room r30 too small for course EltecM the period 17 (day 4, timeslot 1)
+[S(30)] Room r31 too small for course FisTecM the period 7 (day 1, timeslot 3)
+[S(38)] Room r37 too small for course FisTecM the period 13 (day 3, timeslot 1)
+[S(38)] Room r37 too small for course TecMecI the period 2 (day 0, timeslot 2)
+[S(20)] Room r31 too small for course DisAss the period 0 (day 0, timeslot 0)
+[S(38)] Room r30 too small for course DisAss the period 14 (day 3, timeslot 2)
+[S(28)] Room r36 too small for course ProMac the period 5 (day 1, timeslot 1)
+[S(5)] The course Fis1C has only 3 days of lecture
+[S(5)] The course Fis1E has only 4 days of lecture
+[S(5)] The course Fis1G has only 4 days of lecture
+[S(5)] The course Fis1M has only 3 days of lecture
+[S(5)] The course FonInfE has only 2 days of lecture
+[S(5)] The course MecRazC has only 3 days of lecture
+[S(5)] The course Idro has only 3 days of lecture
+[S(5)] The course StoArc has only 3 days of lecture
+[S(5)] The course TeoStr has only 3 days of lecture
+[S(5)] The course ArcCom has only 3 days of lecture
+[S(5)] The course CosStr has only 3 days of lecture
+[S(5)] The course IngSan has only 2 days of lecture
+[S(5)] The course RetLog has only 3 days of lecture
+[S(5)] The course FisTecE has only 3 days of lecture
+[S(5)] The course ConAutG has only 3 days of lecture
+[S(5)] The course OrgPro has only 3 days of lecture
+[S(5)] The course FisTecM has only 2 days of lecture
+[S(5)] The course DisAss has only 3 days of lecture
+[S(5)] The course MecSol has only 2 days of lecture
+[S(5)] The course EleInd has only 2 days of lecture
+[S(5)] The course Chimica has only 3 days of lecture
+[S(2)] Curriculum Civile1 has an isolated lecture at period 5 (day 1, timeslot 1)
+[S(2)] Curriculum Civile1 has an isolated lecture at period 7 (day 1, timeslot 3)
+[S(2)] Curriculum Civile1 has an isolated lecture at period 11 (day 2, timeslot 3)
+[S(2)] Curriculum Civile1 has an isolated lecture at period 16 (day 4, timeslot 0)
+[S(2)] Curriculum LaureaCivile2 has an isolated lecture at period 1 (day 0, timeslot 1)
+[S(2)] Curriculum LaureaCivile2 has an isolated lecture at period 8 (day 2, timeslot 0)
+[S(2)] Curriculum LaureaCivile3 has an isolated lecture at period 1 (day 0, timeslot 1)
+[S(2)] Curriculum LaureaCivile3 has an isolated lecture at period 3 (day 0, timeslot 3)
+[S(2)] Curriculum LaureaCivile3 has an isolated lecture at period 9 (day 2, timeslot 1)
+[S(2)] Curriculum LaureaCivile3 has an isolated lecture at period 11 (day 2, timeslot 3)
+[S(2)] Curriculum LaureaCivile3 has an isolated lecture at period 17 (day 4, timeslot 1)
+[S(2)] Curriculum LaureaCivile3 has an isolated lecture at period 19 (day 4, timeslot 3)
+[S(2)] Curriculum LaureaCivile4a1 has an isolated lecture at period 1 (day 0, timeslot 1)
+[S(2)] Curriculum LaureaCivile4a1 has an isolated lecture at period 11 (day 2, timeslot 3)
+[S(2)] Curriculum LaureaCivile4a1 has an isolated lecture at period 12 (day 3, timeslot 0)
+[S(2)] Curriculum LaureaCivile4a2 has an isolated lecture at period 1 (day 0, timeslot 1)
+[S(2)] Curriculum LaureaCivile4a2 has an isolated lecture at period 18 (day 4, timeslot 2)
+[S(2)] Curriculum LaureaCivile4b has an isolated lecture at period 14 (day 3, timeslot 2)
+[S(2)] Curriculum LaureaCivile4b has an isolated lecture at period 16 (day 4, timeslot 0)
+[S(2)] Curriculum LaureaCivile4c has an isolated lecture at period 1 (day 0, timeslot 1)
+[S(2)] Curriculum LaureaCivile4c has an isolated lecture at period 9 (day 2, timeslot 1)
+[S(2)] Curriculum LaureaCivile4c has an isolated lecture at period 11 (day 2, timeslot 3)
+[S(2)] Curriculum LaureaCivile4d has an isolated lecture at period 9 (day 2, timeslot 1)
+[S(2)] Curriculum LaureaCivile4d has an isolated lecture at period 12 (day 3, timeslot 0)
+[S(2)] Curriculum LaureaCivile4d has an isolated lecture at period 16 (day 4, timeslot 0)
+[S(2)] Curriculum LaureaCivile5a has an isolated lecture at period 4 (day 1, timeslot 0)
+[S(2)] Curriculum LaureaCivile5a has an isolated lecture at period 6 (day 1, timeslot 2)
+[S(2)] Curriculum LaureaCivile5c has an isolated lecture at period 11 (day 2, timeslot 3)
+[S(2)] Curriculum LaureaCivile5d has an isolated lecture at period 11 (day 2, timeslot 3)
+[S(2)] Curriculum Elettronica1 has an isolated lecture at period 1 (day 0, timeslot 1)
+[S(2)] Curriculum Elettronica1 has an isolated lecture at period 3 (day 0, timeslot 3)
+[S(2)] Curriculum Elettronica1 has an isolated lecture at period 9 (day 2, timeslot 1)
+[S(2)] Curriculum Elettronica1 has an isolated lecture at period 15 (day 3, timeslot 3)
+[S(2)] Curriculum LaureaElettronica2 has an isolated lecture at period 0 (day 0, timeslot 0)
+[S(2)] Curriculum LaureaElettronica2 has an isolated lecture at period 9 (day 2, timeslot 1)
+[S(2)] Curriculum LaureaElettronica3 has an isolated lecture at period 3 (day 0, timeslot 3)
+[S(2)] Curriculum LaureaElettronica3 has an isolated lecture at period 18 (day 4, timeslot 2)
+[S(2)] Curriculum LaureaElettronica4 has an isolated lecture at period 13 (day 3, timeslot 1)
+[S(2)] Curriculum GestionaleA1 has an isolated lecture at period 1 (day 0, timeslot 1)
+[S(2)] Curriculum GestionaleA1 has an isolated lecture at period 3 (day 0, timeslot 3)
+[S(2)] Curriculum GestionaleA1 has an isolated lecture at period 4 (day 1, timeslot 0)
+[S(2)] Curriculum GestionaleA1 has an isolated lecture at period 6 (day 1, timeslot 2)
+[S(2)] Curriculum GestionaleA1 has an isolated lecture at period 8 (day 2, timeslot 0)
+[S(2)] Curriculum GestionaleA1 has an isolated lecture at period 14 (day 3, timeslot 2)
+[S(2)] Curriculum LaureaGestionale2 has an isolated lecture at period 0 (day 0, timeslot 0)
+[S(2)] Curriculum LaureaGestionale2 has an isolated lecture at period 12 (day 3, timeslot 0)
+[S(2)] Curriculum LaureaGestionale2 has an isolated lecture at period 15 (day 3, timeslot 3)
+[S(2)] Curriculum LaureaGestionale3 has an isolated lecture at period 4 (day 1, timeslot 0)
+[S(2)] Curriculum LaureaGestionale3 has an isolated lecture at period 7 (day 1, timeslot 3)
+[S(2)] Curriculum LaureaGestionale3 has an isolated lecture at period 10 (day 2, timeslot 2)
+[S(2)] Curriculum LaureaGestionale3 has an isolated lecture at period 15 (day 3, timeslot 3)
+[S(2)] Curriculum LaureaGestionale4 has an isolated lecture at period 15 (day 3, timeslot 3)
+[S(2)] Curriculum LaureaGestionale4 has an isolated lecture at period 18 (day 4, timeslot 2)
+[S(2)] Curriculum LaureaGestionale5a has an isolated lecture at period 7 (day 1, timeslot 3)
+[S(2)] Curriculum LaureaGestionale5b has an isolated lecture at period 7 (day 1, timeslot 3)
+[S(2)] Curriculum LaureaGestionale5b has an isolated lecture at period 9 (day 2, timeslot 1)
+[S(2)] Curriculum Meccanica1 has an isolated lecture at period 5 (day 1, timeslot 1)
+[S(2)] Curriculum Meccanica1 has an isolated lecture at period 9 (day 2, timeslot 1)
+[S(2)] Curriculum LaureaMeccanica3 has an isolated lecture at period 3 (day 0, timeslot 3)
+[S(2)] Curriculum LaureaMeccanica3 has an isolated lecture at period 17 (day 4, timeslot 1)
+[S(2)] Curriculum LaureaMeccanica3 has an isolated lecture at period 19 (day 4, timeslot 3)
+[S(2)] Curriculum LaureaMeccanica5 has an isolated lecture at period 0 (day 0, timeslot 0)
+[S(2)] Curriculum LaureaMeccanica5 has an isolated lecture at period 3 (day 0, timeslot 3)
+[S(2)] Curriculum LaureaMeccanica5 has an isolated lecture at period 8 (day 2, timeslot 0)
+[S(2)] Curriculum DiplomaAmbiente2 has an isolated lecture at period 4 (day 1, timeslot 0)
+[S(2)] Curriculum DiplomaAmbiente2 has an isolated lecture at period 7 (day 1, timeslot 3)
+[S(2)] Curriculum DiplomaAmbiente2 has an isolated lecture at period 12 (day 3, timeslot 0)
+[S(2)] Curriculum DiplomaAmbiente2 has an isolated lecture at period 14 (day 3, timeslot 2)
+[S(2)] Curriculum DiplomaAmbiente2 has an isolated lecture at period 19 (day 4, timeslot 3)
+[S(2)] Curriculum DiplomaAmbiente3 has an isolated lecture at period 3 (day 0, timeslot 3)
+[S(2)] Curriculum DiplomaAmbiente3 has an isolated lecture at period 8 (day 2, timeslot 0)
+[S(2)] Curriculum DiplomaAmbiente3 has an isolated lecture at period 19 (day 4, timeslot 3)
+[S(2)] Curriculum DiplomaElettronica2 has an isolated lecture at period 0 (day 0, timeslot 0)
+[S(2)] Curriculum DiplomaElettronica2 has an isolated lecture at period 4 (day 1, timeslot 0)
+[S(2)] Curriculum DiplomaElettronica2 has an isolated lecture at period 6 (day 1, timeslot 2)
+[S(2)] Curriculum DiplomaElettronica2 has an isolated lecture at period 16 (day 4, timeslot 0)
+[S(2)] Curriculum DiplomaElettronica2 has an isolated lecture at period 18 (day 4, timeslot 2)
+[S(2)] Curriculum DiplomaElettronica3 has an isolated lecture at period 1 (day 0, timeslot 1)
+[S(2)] Curriculum DiplomaElettronica3 has an isolated lecture at period 3 (day 0, timeslot 3)
+[S(2)] Curriculum DiplomaElettronica3 has an isolated lecture at period 7 (day 1, timeslot 3)
+[S(2)] Curriculum DiplomaElettronica3 has an isolated lecture at period 8 (day 2, timeslot 0)
+[S(3)] Course Fis1C uses 4 different rooms
+[S(2)] Course Fis1E uses 3 different rooms
+[S(2)] Course Fis1G uses 3 different rooms
+[S(3)] Course Fis1M uses 4 different rooms
+[S(1)] Course FonInfC uses 2 different rooms
+[S(2)] Course FonInfE uses 3 different rooms
+[S(3)] Course MecRazC uses 4 different rooms
+[S(2)] Course TecMat uses 3 different rooms
+[S(1)] Course FisAmb uses 2 different rooms
+[S(3)] Course GeoApp uses 4 different rooms
+[S(1)] Course Idro uses 2 different rooms
+[S(2)] Course StoArc uses 3 different rooms
+[S(2)] Course TecUrb uses 3 different rooms
+[S(2)] Course TeoStr uses 3 different rooms
+[S(3)] Course ProStr uses 4 different rooms
+[S(2)] Course ArcCom uses 3 different rooms
+[S(3)] Course CosStr uses 4 different rooms
+[S(2)] Course DinStr uses 3 different rooms
+[S(1)] Course IngSan uses 2 different rooms
+[S(1)] Course IngSanLab uses 2 different rooms
+[S(3)] Course SisApp uses 4 different rooms
+[S(3)] Course RetLog uses 4 different rooms
+[S(3)] Course FisTecE uses 4 different rooms
+[S(3)] Course ConAutE uses 4 different rooms
+[S(3)] Course ModNum uses 4 different rooms
+[S(3)] Course CalEle uses 4 different rooms
+[S(2)] Course DisTec uses 3 different rooms
+[S(2)] Course MecRazG uses 3 different rooms
+[S(2)] Course EltecG uses 3 different rooms
+[S(2)] Course FisTec uses 3 different rooms
+[S(2)] Course ConAutG uses 3 different rooms
+[S(2)] Course OrgPro uses 3 different rooms
+[S(2)] Course SisEla uses 3 different rooms
+[S(4)] Course DisMac uses 5 different rooms
+[S(3)] Course EltecM uses 4 different rooms
+[S(4)] Course FisTecM uses 5 different rooms
+[S(2)] Course TecMecI uses 3 different rooms
+[S(4)] Course DisAss uses 5 different rooms
+[S(3)] Course ProMac uses 4 different rooms
+[S(2)] Course MecSol uses 3 different rooms
+[S(1)] Course Fluido uses 2 different rooms
+[S(2)] Course IdraDAUR uses 3 different rooms
+[S(2)] Course CamEle uses 3 different rooms
+[S(1)] Course AziEle uses 2 different rooms
+[S(2)] Course EcoOrg uses 3 different rooms
+[S(2)] Course EleInd uses 3 different rooms
+[S(1)] Course CCIAA2 uses 2 different rooms
+[S(1)] Course CCIAA3 uses 2 different rooms
+[S(1)] Course Chimica uses 2 different rooms
+[S(1)] Course Inglese uses 2 different rooms
+[S(1)] Course Inglese2 uses 2 different rooms
+
+Violations of Lectures (hard) : 0
+Violations of Conflicts (hard) : 0
+Violations of Availability (hard) : 0
+Violations of RoomOccupation (hard) : 0
+Cost of RoomCapacity (soft) : 911
+Cost of MinWorkingDays (soft) : 120
+Cost of IsolatedLectures (soft) : 162
+Cost of RoomStability (soft) : 110
+
+Summary: Total Cost = 1303
+Construction time in seconds: 4.937619183328094
+Reaching feasibility time in seconds: 1.1279869462328893
+Improvement time in seconds: 8.846755109393248

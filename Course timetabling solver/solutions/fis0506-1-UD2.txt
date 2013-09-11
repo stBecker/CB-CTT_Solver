@@ -1,0 +1,27 @@
+0
+0
+10
+[S(1)] Room rF too small for course c0032 the period 3 (day 0, timeslot 3)
+[S(1)] Room rF too small for course c0033 the period 4 (day 0, timeslot 4)
+[S(1)] Room rF too small for course c0033 the period 17 (day 2, timeslot 5)
+[S(1)] Room rF too small for course c0033 the period 19 (day 3, timeslot 1)
+[S(1)] Course c0015 uses 2 different rooms
+[S(1)] Course c0025 uses 2 different rooms
+[S(1)] Course c0031 uses 2 different rooms
+[S(1)] Course c0033 uses 2 different rooms
+[S(1)] Course c0057 uses 2 different rooms
+[S(1)] Course c0069 uses 2 different rooms
+
+Violations of Lectures (hard) : 0
+Violations of Conflicts (hard) : 0
+Violations of Availability (hard) : 0
+Violations of RoomOccupation (hard) : 0
+Cost of RoomCapacity (soft) : 4
+Cost of MinWorkingDays (soft) : 0
+Cost of IsolatedLectures (soft) : 0
+Cost of RoomStability (soft) : 6
+
+Summary: Total Cost = 10
+Construction time in seconds: 2.7064633181189492
+Reaching feasibility time in seconds: 0
+Improvement time in seconds: 419.22302429066485

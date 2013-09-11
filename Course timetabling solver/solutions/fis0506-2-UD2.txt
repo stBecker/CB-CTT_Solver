@@ -1,0 +1,23 @@
+0
+0
+8
+[S(2)] Curriculum q007 has an isolated lecture at period 27 (day 3, timeslot 0)
+[S(2)] Curriculum q011 has an isolated lecture at period 2 (day 0, timeslot 2)
+[S(1)] Course c0085 uses 2 different rooms
+[S(1)] Course c0036 uses 2 different rooms
+[S(1)] Course c0038 uses 2 different rooms
+[S(1)] Course c0042 uses 2 different rooms
+
+Violations of Lectures (hard) : 0
+Violations of Conflicts (hard) : 0
+Violations of Availability (hard) : 0
+Violations of RoomOccupation (hard) : 0
+Cost of RoomCapacity (soft) : 0
+Cost of MinWorkingDays (soft) : 0
+Cost of IsolatedLectures (soft) : 4
+Cost of RoomStability (soft) : 4
+
+Summary: Total Cost = 8
+Construction time in seconds: 2.8271002887559007
+Reaching feasibility time in seconds: 0
+Improvement time in seconds: 419.1349422173371

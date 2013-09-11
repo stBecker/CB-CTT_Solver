@@ -1,0 +1,27 @@
+0
+0
+22
+[S(5)] The course Geotec has only 3 days of lecture
+[S(2)] Curriculum Cur1 has an isolated lecture at period 0 (day 0, timeslot 0)
+[S(2)] Curriculum Cur1 has an isolated lecture at period 9 (day 2, timeslot 1)
+[S(2)] Curriculum Cur1 has an isolated lecture at period 13 (day 3, timeslot 1)
+[S(2)] Curriculum Cur2 has an isolated lecture at period 5 (day 1, timeslot 1)
+[S(2)] Curriculum Cur2 has an isolated lecture at period 7 (day 1, timeslot 3)
+[S(2)] Curriculum Cur2 has an isolated lecture at period 8 (day 2, timeslot 0)
+[S(2)] Curriculum Cur2 has an isolated lecture at period 17 (day 4, timeslot 1)
+[S(1)] Course TecCos uses 2 different rooms
+[S(2)] Course Geotec uses 3 different rooms
+
+Violations of Lectures (hard) : 0
+Violations of Conflicts (hard) : 0
+Violations of Availability (hard) : 0
+Violations of RoomOccupation (hard) : 0
+Cost of RoomCapacity (soft) : 0
+Cost of MinWorkingDays (soft) : 5
+Cost of IsolatedLectures (soft) : 14
+Cost of RoomStability (soft) : 3
+
+Summary: Total Cost = 22
+Construction time in seconds: 0.03174309872594494
+Reaching feasibility time in seconds: 0
+Improvement time in seconds: 0
